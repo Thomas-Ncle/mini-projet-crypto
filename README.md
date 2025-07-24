@@ -1,5 +1,8 @@
 # Mini-projet-crypto
+
 Implémentation de l'algorithme de chiffrement du Solitaire inventé par Bruce Schneier. Mini-projet m1
+
+Sujet: ![ici](M1_projet_24_25.pdf)
 
 # Instruction de compilation
 
